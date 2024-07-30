@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="171568fc-c342-4e91-a8c7-8f8e44c4c58b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vsconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Config/DefaultEditor.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Config/DefaultGame.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Config/DefaultInput.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project_Poland.uproject" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Project_Poland.Target.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Project_Poland/Project_Poland.Build.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Project_Poland/Project_Poland.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Project_Poland/Project_Poland.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Project_PolandEditor.Target.cs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2jzAsmoQxmS8ScQQ9W0teI5nX27" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="171568fc-c342-4e91-a8c7-8f8e44c4c58b" name="Changes" comment="" />
+      <created>1722379740977</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722379740977</updated>
+      <workItem from="1722379742528" duration="4000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
