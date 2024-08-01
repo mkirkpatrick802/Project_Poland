@@ -12,50 +12,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="171568fc-c342-4e91-a8c7-8f8e44c4c58b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Content/Game/BP_WormSpawner.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Player/Blueprints/BP_PlayerCharacter.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Player/Inputs/Actions/IA_Move.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Player/Inputs/IMC_Movement.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/Project_Poland/WormSpawner.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Game/BP_Worm.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Project_Poland/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Project_Poland/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Game/BP_GM_Base.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Game/BP_GM_Base.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/LUSH_StylizedEnvironmentSet/EpicDemoContent/Characters/Mannequins/Animations/ABP_DemoManny.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/LUSH_StylizedEnvironmentSet/EpicDemoContent/Characters/Mannequins/Animations/ABP_DemoQuinn.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/LUSH_StylizedEnvironmentSet/EpicDemoContent/Characters/Mannequins/Animations/Manny/A_Demo_MM_Fall_Loop.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/LUSH_StylizedEnvironmentSet/EpicDemoContent/Characters/Mannequins/Animations/Manny/A_Demo_MM_Idle.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/LUSH_StylizedEnvironmentSet/EpicDemoContent/Characters/Mannequins/Animations/Manny/A_Demo_MM_Jump.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/LUSH_StylizedEnvironmentSet/EpicDemoContent/Characters/Mannequins/Animations/Manny/A_Demo_MM_Land.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/LUSH_StylizedEnvironmentSet/EpicDemoContent/Characters/Mannequins/Animations/Manny/A_Demo_MM_Run_Fwd.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/LUSH_StylizedEnvironmentSet/EpicDemoContent/Characters/Mannequins/Animations/Manny/A_Demo_MM_Walk_Fwd.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/LUSH_StylizedEnvironmentSet/EpicDemoContent/Characters/Mannequins/Animations/Manny/A_Demo_MM_Walk_InPlace.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/LUSH_StylizedEnvironmentSet/EpicDemoContent/Characters/Mannequins/Animations/Manny/BS_Demo_MM_WalkRun.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/LUSH_StylizedEnvironmentSet/EpicDemoContent/Characters/Mannequins/Animations/Quinn/A_Demo_MF_Idle.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/LUSH_StylizedEnvironmentSet/EpicDemoContent/Characters/Mannequins/Animations/Quinn/A_Demo_MF_Run_Fwd.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/LUSH_StylizedEnvironmentSet/EpicDemoContent/Characters/Mannequins/Animations/Quinn/A_Demo_MF_Walk_Fwd.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/LUSH_StylizedEnvironmentSet/EpicDemoContent/Characters/Mannequins/Animations/Quinn/BS_Demo_MF_Unarmed_WalkRun.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/LUSH_StylizedEnvironmentSet/EpicDemoContent/Characters/Mannequins/Materials/M_DemoMannequin_Basic.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/LUSH_StylizedEnvironmentSet/EpicDemoContent/Characters/Mannequins/Meshes/SKM_DemoManny_Simple.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/LUSH_StylizedEnvironmentSet/EpicDemoContent/Characters/Mannequins/Meshes/SKM_DemoQuinn_Simple.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/LUSH_StylizedEnvironmentSet/EpicDemoContent/Characters/Mannequins/Meshes/SK_DemoMannequin.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/LUSH_StylizedEnvironmentSet/EpicDemoContent/Characters/Mannequins/Rigs/CR_DemoMannequin_BasicFootIK.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/LUSH_StylizedEnvironmentSet/EpicDemoContent/Characters/Mannequins/Rigs/PA_DemoMannequin.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/LUSH_StylizedEnvironmentSet/EpicDemoContent/ThirdPerson/Blueprints/BP_DemoGameMode.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/LUSH_StylizedEnvironmentSet/EpicDemoContent/ThirdPerson/Blueprints/BP_DemoThirdPersonCharacter.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/LUSH_StylizedEnvironmentSet/EpicDemoContent/ThirdPerson/Input/Actions/IA_Demo_CameraDistance.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/LUSH_StylizedEnvironmentSet/EpicDemoContent/ThirdPerson/Input/Actions/IA_Demo_EnableLumen.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/LUSH_StylizedEnvironmentSet/EpicDemoContent/ThirdPerson/Input/Actions/IA_Demo_Jump.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/LUSH_StylizedEnvironmentSet/EpicDemoContent/ThirdPerson/Input/Actions/IA_Demo_Look.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/LUSH_StylizedEnvironmentSet/EpicDemoContent/ThirdPerson/Input/Actions/IA_Demo_Move.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/LUSH_StylizedEnvironmentSet/EpicDemoContent/ThirdPerson/Input/Actions/IA_Demo_Run.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/LUSH_StylizedEnvironmentSet/EpicDemoContent/ThirdPerson/Input/Actions/IA_Demo_SwitchMesh.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/LUSH_StylizedEnvironmentSet/EpicDemoContent/ThirdPerson/Input/IMC_Demo_Debugging.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/LUSH_StylizedEnvironmentSet/EpicDemoContent/ThirdPerson/Input/IMC_Demo_General.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Game/BP_WormSpawner.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Game/BP_WormSpawner.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Levels/Island.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Levels/Island.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Materials/Ground.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Materials/Water.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Player/Blueprints/BP_PlayerController.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project_Poland.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/Project_Poland.uproject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Project_Poland/WormSpawner.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Project_Poland/WormSpawner.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Project_Poland/WormSpawner.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Project_Poland/WormSpawner.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +29,50 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -80,8 +89,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "C++ Project.Project_Poland.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "programming",
+    "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -534,6 +545,8 @@
       <updated>1722379740977</updated>
       <workItem from="1722379742528" duration="4000" />
       <workItem from="1722454165353" duration="2073000" />
+      <workItem from="1722527500814" duration="2807000" />
+      <workItem from="1722530504003" duration="1188000" />
     </task>
     <servers />
   </component>

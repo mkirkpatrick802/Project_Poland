@@ -40,6 +40,7 @@
 *.sdf
 *.VC.db
 *.VC.opendb
+_ReSharper.Caches/*
 
 # Precompiled Assets
 SourceArt/**/*.png
